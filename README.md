@@ -1,1 +1,3 @@
-# Example CRUD (Create / Read / Update / Delete) method implementation using a remote MySQL database
+# JDBC CRUD
+
+Example CRUD (Create / Read / Update / Delete) method implementation using a remote MySQL database
